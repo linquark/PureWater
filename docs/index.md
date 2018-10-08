@@ -3,7 +3,7 @@
 [説明ページ](whack-a-mole)
 
 ## 金魚すくい
-[説明ページ](gold-fish-scopping)
+[説明ページ](gold-fish-scooping)
 
 ## まりも育成
 [説明ページ](marimo)
